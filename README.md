@@ -15,3 +15,8 @@ The key difference between git fetch and pull is that git pull copies changes fr
 # Explain in simple terms git rebase and the command for it #
 The git rebase command allows you to easily change a series of commits,modifying the history of your repository
 git rebase <base>
+
+# Explain in simple terms git cherry-pick and the command for it #
+git cherry-pick in git means choosing a commit from one branch and applying it to another branch
+git cherry-pick af02e0bgit 
+
