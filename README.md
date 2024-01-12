@@ -8,3 +8,7 @@ Git is a version control system that allows developers to track changes in their
    + Gogs
    + Gitea
    + Bitbucket
+
+# Explain the difference between git fetch and git pull #
+The key difference between git fetch and pull is that git pull copies changes from a remote repository directly into your working directory, while git fetch does not.
+
